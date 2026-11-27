@@ -1,0 +1,8 @@
+{
+  "name": "Creative_Intelligence",
+  "description": "Phân tích xu hướng thiết kế poster quảng cáo hằng tháng thị trường Hàn Quốc và Trung Quốc dành cho Design Leader tại Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
